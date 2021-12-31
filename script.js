@@ -13,11 +13,11 @@ let songs = [
     {songName: "Enemy - Imagine Dragons", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Aaja We Mahiya- Imran Khan", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Telepatia - Kali Utchis ", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Mera Deewanapan - Amrinder Gill", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Mera Deewanapan", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Nakhre - Zack Knight", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Sweater Weather - Neighbourhood", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Sweater Weather", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "The Hills - The Weekend", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Если тебе будет грустно - Rauf & Faik", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Если тебе будет грустно", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     
 ]
 
